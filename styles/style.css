@@ -34,6 +34,13 @@
 .header__logo {
   display: block;
   width: 148px;
+  height: 105px;
+}
+
+.header__logo-image {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 
 .address {
@@ -127,7 +134,7 @@
 }
 
 .lots {
-  padding: 180px 24px 146px;
+  padding: 180px 24px 154px;
 }
 
 .lots__heading {
@@ -147,7 +154,7 @@
 
 .lots__card-list-item {
   width: 334px;
-  min-height: 563px;
+  min-height: 596px;
 }
 
 .card-link {
